@@ -1,5 +1,5 @@
 {
-  "latest_version": "2.0.0",
+  "latest_version": "1.0.0",
   "mandatory": true,
   "download_url": "",
   "release_notes": "Added new Check Printing and Resume Builder features."
