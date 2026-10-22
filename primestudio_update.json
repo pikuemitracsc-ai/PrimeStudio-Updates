@@ -1,0 +1,6 @@
+{
+  "latest_version": "1.0.0",
+  "mandatory": true,
+  "download_url": "https://yourwebsite.com/downloads/PrimeStudio_Updater.exe",
+  "release_notes": "Added new Check Printing and Resume Builder features."
+}
