@@ -1,6 +1,6 @@
 {
-  "latest_version": "5.0.0",
+  "latest_version": "1.0.0",
   "mandatory": true,
-  "download_url": "https://github.com/pikuemitracsc-ai/PrintPilot_SBI_v1.9_Setup/releases/download/PrintPilot_SBI_v1.9_Setup/PrintPilot_SBI_v1.9_Setup.exe",
+  "download_url": "",
   "release_notes": "Added new Check Printing and Resume Builder features."
 }
