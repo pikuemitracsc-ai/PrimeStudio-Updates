@@ -1,6 +1,6 @@
 {
   "latest_version": "2.0.0",
   "mandatory": true,
-  "download_url": "https://github.com/pikuemitracsc-ai/PrintPilot_SBI_v1.9_Setup/releases/download/PrintPilot_SBI_v1.9_Setup/PrintPilot_SBI_v1.9_Setup.exe",
+  "download_url": "https://github.com/carepowerpilot-bot/MRCSP_CMS_Software-1.3/releases/download/MRCSP_CMS_Software/MRCSP_CMS_v1.3_Setup.exe",
   "release_notes": "Added new Check Printing and Resume Builder features."
 }
